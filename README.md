@@ -1,5 +1,7 @@
 # Hamilton-Jacobi Equation and Semi-Classical Approximation
 
+![immg](plots/case3.png)
+
 ## Overview
 
 This project implements a semi-classical approximation for quantum time evolution, focusing on the Hamilton-Jacobi equation. The method combines classical dynamics with quantum corrections and is tested on systems such as the quantum harmonic oscillator. The goal is to evaluate the accuracy and limitations of this approach in predicting quantum phenomena.
