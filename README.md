@@ -4,6 +4,8 @@
 
 ## Overview
 
+### Supervisor: Prof. Peter E. Blöchl
+
 This project implements a semi-classical approximation for quantum time evolution, focusing on the Hamilton-Jacobi equation. The method combines classical dynamics with quantum corrections and is tested on systems such as the quantum harmonic oscillator. The goal is to evaluate the accuracy and limitations of this approach in predicting quantum phenomena.
 
 ## Methodology
